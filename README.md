@@ -15,7 +15,7 @@ I'm a **Data Engineering Student** of **UTM**
  
 - 📚**Matriculation Programme** - *Matriculation College Negeri Sembilan*
     - (July 2023 - May 2024)
-    - CGPA: 40
+    - CGPA: 4.0
     - MUET: 4.5
     - Co-curricular: 10.0 / 10.0
 
