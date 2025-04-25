@@ -46,6 +46,15 @@ I'm a **Data Engineering Student** of **UTM**
 </a>
 <br><br>
 
+## 🗂️ My Project - Fastkop: 
+A online ordering system designed for school convenience stores, featuring real-time inventory management and role-based access control. <br><br>
+🔗 [Quick Link to Fastkop](https://github.com/evelyn2307/Fastkop)
+#### 🎥 System Demo
+[![Demo](https://img.youtube.com/vi/9sPRr0XtXxg/0.jpg)](https://www.youtube.com/watch?v=9sPRr0XtXxg)  
+*Click image for full demo*
+
+
+
 ## 🔗Connect with me:
 <a href="https://www.linkedin.com/in/evelyn-ang-749569266/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
