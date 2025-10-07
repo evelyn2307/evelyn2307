@@ -28,7 +28,7 @@ I'm currently a second year **Data Engineering Student** of **UTM**
 
 <br>
 
-## 🖥️ Skills:
+## 🖥️ Tech Skills:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
 </a>
