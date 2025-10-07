@@ -2,7 +2,7 @@
 
 
 ## ✨About Me:
-I'm a **Data Engineering Student** of **UTM**
+I'm currently a year 2 **Data Engineering Student** of **UTM**
 <br>
 💃 You can call me Eve <br>
 🌱 I'm from Batu Pahat, Johor <br>
